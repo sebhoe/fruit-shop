@@ -1,5 +1,7 @@
 # fruit-shop
 
+http://tiny.cc/fruit-shop
+
 ## Project setup
 ```
 npm install
