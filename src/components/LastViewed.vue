@@ -1,5 +1,5 @@
 <template>
-  <div class="last-viewed" v-if="lastViewedProducts">
+  <div class="last-viewed" v-if="filteredLastViewedProducts.length">
     <h2>Last Viewed</h2>
     <md-list>
       <md-list-item
